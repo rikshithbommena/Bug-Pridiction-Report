@@ -20,19 +20,19 @@ Inefficient with growing code complexity
 Solution: Use machine learning algorithms to automate bug prediction and integrate it into the development cycle.
 
 ### ⚙️ Technologies Used
--Python 🐍
+Python 🐍
 
--Scikit-learn
+Scikit-learn
 
--Pandas & NumPy
+Pandas & NumPy
 
--Matplotlib & Seaborn
+Matplotlib & Seaborn
 
--Machine Learning (Ensemble Models)
+Machine Learning (Ensemble Models)
 
--Git & GitHub
+Git & GitHub
 
--CI/CD Tools (e.g., GitHub Actions or Jenkins)
+CI/CD Tools (e.g., GitHub Actions or Jenkins)
 
 ## Dataset Used 
 <a href="https://github.com/rikshithbommena/Bug-Pridiction-Report/tree/main/Dataset">View Dataset<a/>
@@ -44,16 +44,16 @@ Ensemble models outperformed individual models in bug prediction
 
 Real-time prediction can reduce code review effort by 30%+
 
-##Report
+## Report
 ![Screenshot (498)](https://github.com/user-attachments/assets/6721f3a6-a0f8-47de-b19a-31847c07348d)
 
 
 ### ✅ Project Insights
--Traditional methods delay detection; ML offers real-time feedback
+Traditional methods delay detection; ML offers real-time feedback
 
--Ensemble models yield higher accuracy than standalone models
+Ensemble models yield higher accuracy than standalone models
 
--Predictive automation reduces maintenance time and costs
+Predictive automation reduces maintenance time and costs
 
 ### 🧾 Conclusion
 Machine learning significantly enhances bug prediction by learning from historical data and detecting complex patterns. This project proves the effectiveness of ensemble models in reducing human error and improving software quality during development.
