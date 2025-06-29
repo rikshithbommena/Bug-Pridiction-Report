@@ -34,5 +34,29 @@ Solution: Use machine learning algorithms to automate bug prediction and integra
 
 -CI/CD Tools (e.g., GitHub Actions or Jenkins)
 
+## Dataset Used 
+<a href="https://github.com/rikshithbommena/Bug-Pridiction-Report/tree/main/Dataset">View Dataset<a/>
+
+📊 Sample Insights
+Code complexity and churn are strong indicators of bugs
+
+Ensemble models outperformed individual models in bug prediction
+
+Real-time prediction can reduce code review effort by 30%+
+
+##Report
+![Screenshot (498)](https://github.com/user-attachments/assets/6721f3a6-a0f8-47de-b19a-31847c07348d)
+
+
+### ✅ Project Insights
+-Traditional methods delay detection; ML offers real-time feedback
+
+-Ensemble models yield higher accuracy than standalone models
+
+-Predictive automation reduces maintenance time and costs
+
+### 🧾 Conclusion
+Machine learning significantly enhances bug prediction by learning from historical data and detecting complex patterns. This project proves the effectiveness of ensemble models in reducing human error and improving software quality during development.
+
 
 
