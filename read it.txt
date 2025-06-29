@@ -1,2 +1,0 @@
-existing -- SVM
-proposed algorithm ---Extension of Xgboost
